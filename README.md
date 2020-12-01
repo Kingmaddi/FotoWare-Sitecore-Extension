@@ -1,6 +1,6 @@
 # Sitecore-FotoWare-Extension
 ## Description
-With this module you can import images managed in FotoWare DAM directly to into your Sitecore media library.
+With this module you can import images managed in FotoWare DAM directly into your Sitecore media library.
 
 ## Features
 + Select and import single image along with related meta-data 
@@ -46,7 +46,7 @@ Set path for import (default /sitecore/media library/FotoWare):
 ### 3. Setup Image-Field
 Go to all templates where you want to use the FotoWare-Import. Then change the type from "Image" to "FotoWare Image" (see Screenshot).
 
-<img src="./images/Image-config.png" />
+<img src="./images/Image-config.PNG" />
 
 ### 4. Setup RichText-Field
 1. Go to Core-Database and open Content Editor.
