@@ -21,7 +21,7 @@ With this module you can import images managed in FotoWare DAM directly into you
 
 ## Installation Guide
 ### 1. Download package and install
-First you have to Download __[the package here](https://github.com/Kingmaddi/Sitecore-FotoWare-Extension-DEV/releases/tag/1.0)__ and install it with the Sitecore installation wizard. Please notice, that the package is only tested with Sitecore 9.1.*.
+First you have to Download __[the package here](https://github.com/Kingmaddi/FotoWare-Sitecore-Extension/releases/tag/1.0)__ and install it with the Sitecore installation wizard. Please notice, that the package is only tested with Sitecore 9.1.*.
 ### 2. Set following configurations in Sitecore and replace with your data:
 ```
 <setting name="Foundation.FotoWareExtensions.FotoWare.TenantUrl" value="YOUR_FOTOWARE_BASE_URL" />
