@@ -61,3 +61,4 @@ Go to all templates where you want to use the FotoWare-Import. Then change the t
 
 ## Contributers
 + Mattheo Brajko
++ Christopher Huemmer
