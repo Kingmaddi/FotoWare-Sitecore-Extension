@@ -14,7 +14,7 @@
         <div class="container control">
           <div id="fotowarecontainer" class="container">
             <h1 id="errorMessage" style="display: none;">
-              Fehler bei der Authentifizierung aufgetreten.
+              There was en error while trying to authenticate.
             </h1>
           </div>
         </div>
