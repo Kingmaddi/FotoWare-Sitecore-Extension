@@ -78,7 +78,7 @@ namespace Kingmaddi.Foundation.FotoWareExtension.Jobs
       Job job = JobManager.Start(jobOption);
       LongRunningOptions longRunningOption = new LongRunningOptions(job.Handle.ToString())
       {
-        Title = "Import image from Fotoware",
+        Title = "Import image from FotoWare",
         Icon = icon,
         Threshold = 5
       };
