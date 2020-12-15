@@ -10,7 +10,7 @@ Telerik.Web.UI.Editor.CommandList["ImportFotoWareImage"] = function (commandName
     700,
     scInsertFotoWareImage,
     null,
-    "Bild von FotoWare auswählen",
+    "Select Image from FotoWare",
     true, //modal
     Telerik.Web.UI.WindowBehaviors.Close, // behaviors
     false, //showStatusBar
